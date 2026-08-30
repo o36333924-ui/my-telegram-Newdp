@@ -8,7 +8,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 logger = logging.getLogger(__name__)
 
 TOKEN = "8915090375:AAESoUc7a3uzaSYNG0PtkV-pwx_W5kDB5OY"
-FILE_ID = "BQACAgEAAxkBAAJdRmp0ujTeHaC5k4Gsv_fXLwpCvzYaAAK7BQACuLqoR5b6TT2cmyrOPQQ"
+FILE_ID = "BQACAgEAAxkBAAMSapQmbDKqOUaovRguzF6ZIjJ5sXgAAmYIAALHjqFExCBKzOgmHp09BA"
 
 # ===== КАНАЛЫ ДЛЯ ПОДПИСКИ =====
 CHANNELS = [
